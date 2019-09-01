@@ -1,0 +1,14 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "telegram bot app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maliozer",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
